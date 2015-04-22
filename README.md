@@ -4,4 +4,4 @@
 2. Intact = Akhand
 3. Heritage = Warasa/Virasat
 4. Accordance = Nusar/Anusar
-5. 
+5. Discrepancy = Visangati/Bhed
