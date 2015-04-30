@@ -16,3 +16,6 @@ imp // 2.www.fashioninstitutevashi.com
 6.Look for other dimplomas [polytechnic]
 
 imp // http://www.jdinstitute.com/diploma_course_in_fashion_designing.html [after 10th]
+
+Eng // http://www.esolcourses.com/content/topicsmenu/writing.html
+Eng // http://englishinteractive.net/writing.html
