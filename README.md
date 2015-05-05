@@ -7,6 +7,10 @@
 5. Discrepancy = Visangati/Bhed
 
 Create invetment details sheet of FD/MF and PPF with Date and updates
+precisely = thik
+deserved = Patra/Layak/Abiliti
+utterly = purnpane/bilcul
+legitimate = kaydeshir/vaidh/legal
 
 imp // 1.http://www.iiift.com/interior.html
 imp // 2.www.fashioninstitutevashi.com
@@ -19,3 +23,8 @@ imp // http://www.jdinstitute.com/diploma_course_in_fashion_designing.html [afte
 
 Eng // http://www.esolcourses.com/content/topicsmenu/writing.html
 Eng // http://englishinteractive.net/writing.html
+
+
+
+
+
