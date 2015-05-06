@@ -30,7 +30,8 @@ Eng // http://www.esolcourses.com/content/topicsmenu/writing.html
 Eng // http://englishinteractive.net/writing.html
 
 $ = http://christianpf.com/ways-for-teens-to-make-money/
-
+$ = http://fasttechbuzz.com/online-data-entrycaptcha-entry-jobs-from-home/
+$ = http://www.wikihow.com/Work-from-Home-With-Data-Entry
 
 
 
