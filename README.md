@@ -5,12 +5,17 @@
 3. Heritage = Warasa/Virasat
 4. Accordance = Nusar/Anusar
 5. Discrepancy = Visangati/Bhed
+6. gesture = eshara
+7. concise = sankshipta
+8. subsequent = agami/tyanantarchya
+9. depicted = darshaya/chitran
+10. leverage = uttolan/pat
+11. precisely = thik
+12. deserved = Patra/Layak/Abiliti
+13. utterly = purnpane/bilcul
+14. legitimate = kaydeshir/vaidh/legal
 
 Create invetment details sheet of FD/MF and PPF with Date and updates
-precisely = thik
-deserved = Patra/Layak/Abiliti
-utterly = purnpane/bilcul
-legitimate = kaydeshir/vaidh/legal
 
 imp // 1.http://www.iiift.com/interior.html
 imp // 2.www.fashioninstitutevashi.com
