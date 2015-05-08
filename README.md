@@ -48,6 +48,7 @@ $ = http://christianpf.com/ways-for-teens-to-make-money/
 $ = http://fasttechbuzz.com/online-data-entrycaptcha-entry-jobs-from-home/
 $ = http://www.wikihow.com/Work-from-Home-With-Data-Entry
 
-
+navnath.navale@hotmail.com
+kishu@1612
 
 
