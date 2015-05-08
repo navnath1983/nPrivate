@@ -14,20 +14,35 @@
 12. deserved = Patra/Layak/Abiliti
 13. utterly = purnpane/bilcul
 14. legitimate = kaydeshir/vaidh/legal
+15. criticism = alochana/tika
+16. jargon = shabdjal/vyawsay
+17. barrier = adathala
+18. anxiety = chinta
+19. optimism = ashawad
+20. contagious = sankramak/sansargik
+21. charismatic = karishmai/jadui
+22. wise = war/shahana
+23. gestures = eshara/hawbhaw
+24. circumstance = paristhithi
+25. consequences = parinam
+26. massive = bhavya
 
-Create invetment details sheet of FD/MF and PPF with Date and updates
+/ let their confidence rub off on you.
+/ Create invetment details sheet of FD/MF and PPF with Date and updates
 
-imp // 1.http://www.iiift.com/interior.html
-imp // 2.www.fashioninstitutevashi.com
-3.www.htcampus.com
-4.way2college.com
-5.icon fashion design school
-6.Look for other dimplomas [polytechnic]
-
-imp // http://www.jdinstitute.com/diploma_course_in_fashion_designing.html [after 10th]
+Edu // http://www.iiift.com/interior.html
+Edu // www.fashioninstitutevashi.com
+Edu // www.htcampus.com
+Edu // way2college.com
+Edu // icon fashion design school
+Edu // Look for other dimplomas [polytechnic]
+Edu // http://www.jdinstitute.com/diploma_course_in_fashion_designing.html [after 10th]
 
 Eng // http://www.esolcourses.com/content/topicsmenu/writing.html
 Eng // http://englishinteractive.net/writing.html
+Eng // http://www.skillsyouneed.com/
+Eng = http://www.ultimatevocabulary.com/
+
 
 $ = http://christianpf.com/ways-for-teens-to-make-money/
 $ = http://fasttechbuzz.com/online-data-entrycaptcha-entry-jobs-from-home/
