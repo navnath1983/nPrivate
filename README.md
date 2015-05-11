@@ -26,6 +26,11 @@
 24. circumstance = paristhithi
 25. consequences = parinam
 26. massive = bhavya
+27. imparted = ke liye di/dile
+28. avid = utsuk
+29. emphasize = jor dena/ mahatwa
+30. asses= gadhe/gadhve
+31. assumptions = samaz
 
 / let their confidence rub off on you.
 / Create invetment details sheet of FD/MF and PPF with Date and updates
@@ -50,5 +55,9 @@ $ = http://www.wikihow.com/Work-from-Home-With-Data-Entry
 
 navnath.navale@hotmail.com
 kishu@1612
+
+$ = http://business-law.lawyers.com/small-business-law/construction-licenses-and-permits.html
+
+http://www.quora.com/What-are-the-best-bargaining-techniques-when-buying-a-car-from-a-dealer
 
 
