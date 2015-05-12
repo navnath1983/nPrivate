@@ -57,6 +57,7 @@ navnath.navale@hotmail.com
 kishu@1612
 
 $ = http://business-law.lawyers.com/small-business-law/construction-licenses-and-permits.html
+$ = http://www.barchart.com/
 
 http://www.quora.com/What-are-the-best-bargaining-techniques-when-buying-a-car-from-a-dealer
 
