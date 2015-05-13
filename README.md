@@ -60,5 +60,25 @@ $ = http://business-law.lawyers.com/small-business-law/construction-licenses-and
 $ = http://www.barchart.com/
 
 http://www.quora.com/What-are-the-best-bargaining-techniques-when-buying-a-car-from-a-dealer
+---------------------------------------------
+crux = jad/
+seldom = kabhi kabhi/ kwachitach
+moneycontrol = navnath1983/kishu1612
+sake = karan/faydyasathi
 
+http://www.bigdecisions.com/blog/7-free-personal-financial-planning-tools-for-2015/?
+
+utm_source=taboola&utm_medium=cpc&utm_term=7%20tools&utm_content=7%20tools&utm_campaign=7%20tools_generic&utm_source=taboola&utm_m
+
+edium=fiscaltimes
+
+https://scripbox.com/blog/6-investing-lessons-from-the-richest-man-in-the-world-warren-buffett/?
+
+utm_source=taboola&utm_medium=contentmarketing&utm_campaign=content-distribution-all
+
+Maintain multiple bank account and stock in excel
+Look for the loan and 1 year MF plan and good share companies
+start investing in tax sacing ELSS plans and record them
+Try to anyalisy companies in money control for further investing
+Study other mutual funds like Equity, Liqiud and dept
 
