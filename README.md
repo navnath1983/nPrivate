@@ -82,3 +82,22 @@ start investing in tax sacing ELSS plans and record them
 Try to anyalisy companies in money control for further investing
 Study other mutual funds like Equity, Liqiud and dept
 
+imperatvie = aniwary/
+convenience = suvidha/soyisathi
+enusre = sunicchit/khatri
+depicted = darshaya/chitran
+compliance = anupalan/palan
+insights/antardrushti
+facet/pehalu/swarup
+leverage/uttolan/pat
+escalation/vruddhi/
+Eng// https://www.ego4u.com
+sustained/
+disater/
+accommodate/
+integrity
+perception/Anubhuti/samaz
+Collect PPF Passbook
+update pass excel to gmail/mscit
+
+
