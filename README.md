@@ -53,9 +53,6 @@ $ = http://christianpf.com/ways-for-teens-to-make-money/
 $ = http://fasttechbuzz.com/online-data-entrycaptcha-entry-jobs-from-home/
 $ = http://www.wikihow.com/Work-from-Home-With-Data-Entry
 
-navnath.navale@hotmail.com
-kishu@1612
-
 $ = http://business-law.lawyers.com/small-business-law/construction-licenses-and-permits.html
 $ = http://www.barchart.com/
 
@@ -63,7 +60,6 @@ http://www.quora.com/What-are-the-best-bargaining-techniques-when-buying-a-car-f
 ---------------------------------------------
 crux = jad/
 seldom = kabhi kabhi/ kwachitach
-moneycontrol = navnath1983/kishu1612
 sake = karan/faydyasathi
 
 http://www.bigdecisions.com/blog/7-free-personal-financial-planning-tools-for-2015/?
@@ -91,13 +87,14 @@ insights/antardrushti
 facet/pehalu/swarup
 leverage/uttolan/pat
 escalation/vruddhi/
+
 Eng// https://www.ego4u.com
+
 sustained/
 disater/
 accommodate/
 integrity
 perception/Anubhuti/samaz
-Collect PPF Passbook
-update pass excel to gmail/mscit
+
 
 
