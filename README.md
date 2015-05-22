@@ -96,5 +96,20 @@ accommodate/
 integrity
 perception/Anubhuti/samaz
 
+regular expressions = http://davidwalsh.name/regular-expressions-rest
+-------------------------------------------
+prediction/bhavishyawani
+http://www.webmd.com/
+
+http://www.english-test.net/esl/learn/english/grammar/ei080/esl-test.php
+
+http://www.englisch-hilfen.de/
+http://www.hangren.com/UEditor.php
+critisized/
+
+UNIX = http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html
 
 
+***VIMP Human Interface Guidline = https://developer.gnome.org/hig/stable/
+
+WireFrame = balsamiq.com and moqups.com and http://www.uxpin.com
