@@ -121,3 +121,6 @@ k1612
 *** http://proto.io/
 navanath.n9@gmail.com
 k1612
+
+
+UX/UI = http://www.fastcodesign.com/3032719/ui-ux-who-does-what-a-designers-guide-to-the-tech-industry
